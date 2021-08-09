@@ -4,6 +4,8 @@ Chat web application made using React and [ChatEngine](https://chatengine.io/). 
 
 Login with a Gmail account, and you're ready to chat! (Note: User limit == 25; ChatEngine's free plan limits no. of users)
 
+FUN FACT: The name ```cordcatenate``` comes from ```concatenate```, and I used 'cord' instead of 'con' as the prefix because I was inspired by the popular IM app [Discord](https://discord.com/).
+
 ## Installation
 
 **Prerequisites**
